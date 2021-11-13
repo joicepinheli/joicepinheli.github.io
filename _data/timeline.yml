@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Data Sciences Academy
+  from: 2021
+  to: 2022
+  description: Formação para Cientista de Dados, abordando os tópicos abaixo:,
+               - Python e R para Análise de Dados;
+               - Business Analytics;
+               - Visualização de Dados e Dashboard;
+               - Machine Learning;
+               - Engenharia de Dados com Hadoop e Spark.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Analista de Tecnologia da Informação, Boa Vista Serviços
+  from: 2020
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Monitoração de Serviços e Produtos.
